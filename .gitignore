@@ -1,0 +1,15 @@
+**/.ipynb_checkpoints
+**/__pycache__
+**/.idea
+**/ml-1m
+**/ml-100k
+**/dataset
+**/HaarCascade
+**/Test Images
+**/TrainingImages
+
+*.csv
+*.xlsx
+*.xml
+*.jpg
+*.yml
